@@ -1,5 +1,8 @@
 # Mask-Detection-master
 Mask detection working code with setup information of TFOD 
+Extract the object_detection.rar and download the model from
+https://drive.google.com/open?id=1c7PrZ8-ov3ek9FgLu-qBmgkTlFdg3XmS
+put in model folder.
 
 ##### STEPS ################
 https://github.com/tensorflow/models/tree/v1.13.0  ###  Download Repo
